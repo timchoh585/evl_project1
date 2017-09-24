@@ -27466,7 +27466,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 48878ebc647a64132bb1c0af79ad313b, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 58abbd230c5df4aa7af3d2cbffdfa0cf, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.507
   m_Pitch: 1
@@ -27477,7 +27477,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1.0024109
-  MaxDistance: 5
+  MaxDistance: 5.2094116
   Pan2D: 0
   rolloffMode: 2
   BypassEffects: 0
@@ -27493,14 +27493,14 @@ AudioSource:
       outSlope: -5.0019917
       tangentMode: 0
     - serializedVersion: 2
-      time: 0.4
-      value: 0.4360465
+      time: 0.46701032
+      value: 0.5735465
       inSlope: -1.2504979
       outSlope: -1.2504979
       tangentMode: 0
     - serializedVersion: 2
-      time: 0.78840584
-      value: 0.10077519
+      time: 0.757478
+      value: 0.29174742
       inSlope: -0.31262448
       outSlope: -0.31262448
       tangentMode: 0
@@ -30515,7 +30515,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400002, guid: 80e8c32c9062b4228bb45ff796b594f8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 299.5
+      value: 300.21
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 80e8c32c9062b4228bb45ff796b594f8, type: 3}
       propertyPath: m_LocalPosition.y
@@ -31831,7 +31831,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: f4b1d6cc442814f27b311a273236a69c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 296.594
+      value: 296.5923
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f4b1d6cc442814f27b311a273236a69c, type: 3}
       propertyPath: m_LocalPosition.y
