@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 3aab1a0857ec8c940baa1d6082ca00f7
+timeCreated: 1506220520
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _3D_MP-JB90F72.dwg
+    100002: _3D_MP-M70F72.dwg
+    100004: _3D_MP-N70F72.dwg
+    100006: Group_1
+    100008: Group_10
+    100010: Group_11
+    100012: Group_12
+    100014: Group_13
+    100016: Group_14
+    100018: Group_15
+    100020: Group_16
+    100022: Group_2
+    100024: Group_25
+    100026: Group_26
+    100028: Group_27
+    100030: Group_28
+    100032: Group_29
+    100034: Group_3
+    100036: Group_30
+    100038: Group_31
+    100040: Group_32
+    100042: Group_4
+    100044: Group_5
+    100046: Group_6
+    100048: Group_7
+    100050: Group_8
+    100052: Group_9
+    100054: Hee_Dining_Chair_by_HAY__Black
+    100056: Hee_Dining_Chair_by_HAY__Black 1
+    100058: Hee_Dining_Chair_by_HAY__Black 10
+    100060: Hee_Dining_Chair_by_HAY__Black 11
+    100062: Hee_Dining_Chair_by_HAY__Black 2
+    100064: Hee_Dining_Chair_by_HAY__Black 3
+    100066: Hee_Dining_Chair_by_HAY__Black 4
+    100068: Hee_Dining_Chair_by_HAY__Black 5
+    100070: Hee_Dining_Chair_by_HAY__Black 6
+    100072: Hee_Dining_Chair_by_HAY__Black 7
+    100074: Hee_Dining_Chair_by_HAY__Black 8
+    100076: Hee_Dining_Chair_by_HAY__Black 9
+    100078: ID103
+    100080: ID185
+    100082: ID193
+    100084: ID312
+    100086: ID320
+    100088: ID93
+    100090: instance_0
+    100092: instance_1
+    100094: instance_10
+    100096: instance_11
+    100098: instance_12
+    100100: instance_13
+    100102: instance_14
+    100104: instance_15
+    100106: instance_16
+    100108: instance_17
+    100110: instance_2
+    100112: instance_3
+    100114: instance_3 1
+    100116: instance_3 10
+    100118: instance_3 11
+    100120: instance_3 2
+    100122: instance_3 3
+    100124: instance_3 4
+    100126: instance_3 5
+    100128: instance_3 6
+    100130: instance_3 7
+    100132: instance_3 8
+    100134: instance_3 9
+    100136: instance_4
+    100138: instance_4 1
+    100140: instance_4 10
+    100142: instance_4 11
+    100144: instance_4 2
+    100146: instance_4 3
+    100148: instance_4 4
+    100150: instance_4 5
+    100152: instance_4 6
+    100154: instance_4 7
+    100156: instance_4 8
+    100158: instance_4 9
+    100160: instance_5
+    100162: instance_5 1
+    100164: instance_5 10
+    100166: instance_5 11
+    100168: instance_5 2
+    100170: instance_5 3
+    100172: instance_5 4
+    100174: instance_5 5
+    100176: instance_5 6
+    100178: instance_5 7
+    100180: instance_5 8
+    100182: instance_5 9
+    100184: instance_6
+    100186: instance_7
+    100188: instance_8
+    100190: instance_9
+    100192: //RootNode
+    100194: Obj_000001
+    100196: Obj_000001 1
+    100198: Obj_000001 10
+    100200: Obj_000001 11
+    100202: Obj_000001 2
+    100204: Obj_000001 3
+    100206: Obj_000001 4
+    100208: Obj_000001 5
+    100210: Obj_000001 6
+    100212: Obj_000001 7
+    100214: Obj_000001 8
+    100216: Obj_000001 9
+    100218: Obj_000002
+    100220: Obj_000002 1
+    100222: Obj_000002 10
+    100224: Obj_000002 11
+    100226: Obj_000002 2
+    100228: Obj_000002 3
+    100230: Obj_000002 4
+    100232: Obj_000002 5
+    100234: Obj_000002 6
+    100236: Obj_000002 7
+    100238: Obj_000002 8
+    100240: Obj_000002 9
+    100242: skp_camera_Last_Saved_SketchUp_View
+    100244: skpF32C
+    100246: skpF32C 1
+    100248: skpF32C 10
+    100250: skpF32C 11
+    100252: skpF32C 2
+    100254: skpF32C 3
+    100256: skpF32C 4
+    100258: skpF32C 5
+    100260: skpF32C 6
+    100262: skpF32C 7
+    100264: skpF32C 8
+    100266: skpF32C 9
+    400000: _3D_MP-JB90F72.dwg
+    400002: _3D_MP-M70F72.dwg
+    400004: _3D_MP-N70F72.dwg
+    400006: Group_1
+    400008: Group_10
+    400010: Group_11
+    400012: Group_12
+    400014: Group_13
+    400016: Group_14
+    400018: Group_15
+    400020: Group_16
+    400022: Group_2
+    400024: Group_25
+    400026: Group_26
+    400028: Group_27
+    400030: Group_28
+    400032: Group_29
+    400034: Group_3
+    400036: Group_30
+    400038: Group_31
+    400040: Group_32
+    400042: Group_4
+    400044: Group_5
+    400046: Group_6
+    400048: Group_7
+    400050: Group_8
+    400052: Group_9
+    400054: Hee_Dining_Chair_by_HAY__Black
+    400056: Hee_Dining_Chair_by_HAY__Black 1
+    400058: Hee_Dining_Chair_by_HAY__Black 10
+    400060: Hee_Dining_Chair_by_HAY__Black 11
+    400062: Hee_Dining_Chair_by_HAY__Black 2
+    400064: Hee_Dining_Chair_by_HAY__Black 3
+    400066: Hee_Dining_Chair_by_HAY__Black 4
+    400068: Hee_Dining_Chair_by_HAY__Black 5
+    400070: Hee_Dining_Chair_by_HAY__Black 6
+    400072: Hee_Dining_Chair_by_HAY__Black 7
+    400074: Hee_Dining_Chair_by_HAY__Black 8
+    400076: Hee_Dining_Chair_by_HAY__Black 9
+    400078: ID103
+    400080: ID185
+    400082: ID193
+    400084: ID312
+    400086: ID320
+    400088: ID93
+    400090: instance_0
+    400092: instance_1
+    400094: instance_10
+    400096: instance_11
+    400098: instance_12
+    400100: instance_13
+    400102: instance_14
+    400104: instance_15
+    400106: instance_16
+    400108: instance_17
+    400110: instance_2
+    400112: instance_3
+    400114: instance_3 1
+    400116: instance_3 10
+    400118: instance_3 11
+    400120: instance_3 2
+    400122: instance_3 3
+    400124: instance_3 4
+    400126: instance_3 5
+    400128: instance_3 6
+    400130: instance_3 7
+    400132: instance_3 8
+    400134: instance_3 9
+    400136: instance_4
+    400138: instance_4 1
+    400140: instance_4 10
+    400142: instance_4 11
+    400144: instance_4 2
+    400146: instance_4 3
+    400148: instance_4 4
+    400150: instance_4 5
+    400152: instance_4 6
+    400154: instance_4 7
+    400156: instance_4 8
+    400158: instance_4 9
+    400160: instance_5
+    400162: instance_5 1
+    400164: instance_5 10
+    400166: instance_5 11
+    400168: instance_5 2
+    400170: instance_5 3
+    400172: instance_5 4
+    400174: instance_5 5
+    400176: instance_5 6
+    400178: instance_5 7
+    400180: instance_5 8
+    400182: instance_5 9
+    400184: instance_6
+    400186: instance_7
+    400188: instance_8
+    400190: instance_9
+    400192: //RootNode
+    400194: Obj_000001
+    400196: Obj_000001 1
+    400198: Obj_000001 10
+    400200: Obj_000001 11
+    400202: Obj_000001 2
+    400204: Obj_000001 3
+    400206: Obj_000001 4
+    400208: Obj_000001 5
+    400210: Obj_000001 6
+    400212: Obj_000001 7
+    400214: Obj_000001 8
+    400216: Obj_000001 9
+    400218: Obj_000002
+    400220: Obj_000002 1
+    400222: Obj_000002 10
+    400224: Obj_000002 11
+    400226: Obj_000002 2
+    400228: Obj_000002 3
+    400230: Obj_000002 4
+    400232: Obj_000002 5
+    400234: Obj_000002 6
+    400236: Obj_000002 7
+    400238: Obj_000002 8
+    400240: Obj_000002 9
+    400242: skp_camera_Last_Saved_SketchUp_View
+    400244: skpF32C
+    400246: skpF32C 1
+    400248: skpF32C 10
+    400250: skpF32C 11
+    400252: skpF32C 2
+    400254: skpF32C 3
+    400256: skpF32C 4
+    400258: skpF32C 5
+    400260: skpF32C 6
+    400262: skpF32C 7
+    400264: skpF32C 8
+    400266: skpF32C 9
+    2300000: Group_1
+    2300002: Group_10
+    2300004: Group_11
+    2300006: Group_12
+    2300008: Group_13
+    2300010: Group_14
+    2300012: Group_15
+    2300014: Group_16
+    2300016: Group_2
+    2300018: Group_25
+    2300020: Group_26
+    2300022: Group_27
+    2300024: Group_28
+    2300026: Group_29
+    2300028: Group_3
+    2300030: Group_30
+    2300032: Group_31
+    2300034: Group_32
+    2300036: Group_4
+    2300038: Group_5
+    2300040: Group_6
+    2300042: Group_7
+    2300044: Group_8
+    2300046: Group_9
+    2300048: ID103
+    2300050: ID185
+    2300052: ID193
+    2300054: ID312
+    2300056: ID320
+    2300058: ID93
+    2300060: Obj_000001
+    2300062: Obj_000001 1
+    2300064: Obj_000001 10
+    2300066: Obj_000001 11
+    2300068: Obj_000001 2
+    2300070: Obj_000001 3
+    2300072: Obj_000001 4
+    2300074: Obj_000001 5
+    2300076: Obj_000001 6
+    2300078: Obj_000001 7
+    2300080: Obj_000001 8
+    2300082: Obj_000001 9
+    2300084: Obj_000002
+    2300086: Obj_000002 1
+    2300088: Obj_000002 10
+    2300090: Obj_000002 11
+    2300092: Obj_000002 2
+    2300094: Obj_000002 3
+    2300096: Obj_000002 4
+    2300098: Obj_000002 5
+    2300100: Obj_000002 6
+    2300102: Obj_000002 7
+    2300104: Obj_000002 8
+    2300106: Obj_000002 9
+    3300000: Group_1
+    3300002: Group_10
+    3300004: Group_11
+    3300006: Group_12
+    3300008: Group_13
+    3300010: Group_14
+    3300012: Group_15
+    3300014: Group_16
+    3300016: Group_2
+    3300018: Group_25
+    3300020: Group_26
+    3300022: Group_27
+    3300024: Group_28
+    3300026: Group_29
+    3300028: Group_3
+    3300030: Group_30
+    3300032: Group_31
+    3300034: Group_32
+    3300036: Group_4
+    3300038: Group_5
+    3300040: Group_6
+    3300042: Group_7
+    3300044: Group_8
+    3300046: Group_9
+    3300048: ID103
+    3300050: ID185
+    3300052: ID193
+    3300054: ID312
+    3300056: ID320
+    3300058: ID93
+    3300060: Obj_000001
+    3300062: Obj_000001 1
+    3300064: Obj_000001 10
+    3300066: Obj_000001 11
+    3300068: Obj_000001 2
+    3300070: Obj_000001 3
+    3300072: Obj_000001 4
+    3300074: Obj_000001 5
+    3300076: Obj_000001 6
+    3300078: Obj_000001 7
+    3300080: Obj_000001 8
+    3300082: Obj_000001 9
+    3300084: Obj_000002
+    3300086: Obj_000002 1
+    3300088: Obj_000002 10
+    3300090: Obj_000002 11
+    3300092: Obj_000002 2
+    3300094: Obj_000002 3
+    3300096: Obj_000002 4
+    3300098: Obj_000002 5
+    3300100: Obj_000002 6
+    3300102: Obj_000002 7
+    3300104: Obj_000002 8
+    3300106: Obj_000002 9
+    4300000: Group_1
+    4300002: Group_2
+    4300004: Group_3
+    4300006: Group_4
+    4300008: Group_5
+    4300010: Group_6
+    4300012: Group_7
+    4300014: Group_8
+    4300016: ID93
+    4300018: ID103
+    4300020: Group_9
+    4300022: Group_10
+    4300024: Group_11
+    4300026: Group_12
+    4300028: Group_13
+    4300030: Group_14
+    4300032: Group_15
+    4300034: Group_16
+    4300036: ID185
+    4300038: ID193
+    4300040: Obj_000001
+    4300042: Obj_000002
+    4300044: Group_25
+    4300046: Group_26
+    4300048: Group_27
+    4300050: Group_28
+    4300052: Group_29
+    4300054: Group_30
+    4300056: Group_31
+    4300058: Group_32
+    4300060: ID312
+    4300062: ID320
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
