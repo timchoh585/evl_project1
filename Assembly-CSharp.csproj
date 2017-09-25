@@ -67,6 +67,7 @@
      <Compile Include="Assets\Scripts\OnClickSound.cs" />
      <Compile Include="Assets\Scripts\POIJump.cs" />
      <Compile Include="Assets\Scripts\SlidingPanelWall.cs" />
+     <Compile Include="Assets\Scripts\ToggleLight.cs" />
      <Compile Include="Assets\Scripts\ToggleModel.cs" />
      <Compile Include="Assets\Scripts\WandMenu.cs" />
      <Compile Include="Assets\Scripts\WandOriginCalibrator.cs" />
