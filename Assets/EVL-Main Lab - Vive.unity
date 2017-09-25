@@ -20957,6 +20957,9 @@ GameObject:
   m_Component:
   - component: {fileID: 523219018}
   - component: {fileID: 523219017}
+  - component: {fileID: 523219019}
+  - component: {fileID: 523219021}
+  - component: {fileID: 523219020}
   m_Layer: 0
   m_Name: lightswitch
   m_TagString: Untagged
@@ -20989,13 +20992,48 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 523219016}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 290.997, y: 17.0731, z: 228.7908}
+  m_LocalPosition: {x: 290.947, y: 17.0731, z: 228.8176}
   m_LocalScale: {x: 0.4961524, y: 0.4961524, z: 0.4961524}
   m_Children:
   - {fileID: 629315484}
   m_Father: {fileID: 0}
   m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &523219019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 523219016}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd53426786ceb4b47b72a9e7672107d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myLight: {fileID: 661798583}
+--- !u!114 &523219020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 523219016}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b93b6a877adcbf94c89a9d6e0c0e844d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!65 &523219021
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 523219016}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2, y: 0.3, z: 0.2}
+  m_Center: {x: 0, y: 0.15, z: 0}
 --- !u!1 &523698248
 GameObject:
   m_ObjectHideFlags: 0
@@ -28207,7 +28245,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 732b98a9f1bb846ceacce59045b43e58, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.21
+  m_Volume: 0.6
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -41484,6 +41522,35 @@ Transform:
   m_Father: {fileID: 1804158722}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &965910664 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100006, guid: f8b174350ee336040813a7ccd7d760fe, type: 3}
+  m_PrefabInternal: {fileID: 1798426493}
+--- !u!114 &965910668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 965910664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd53426786ceb4b47b72a9e7672107d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myLight: {fileID: 1213213219}
+--- !u!136 &965910669
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 965910664}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.59391606
+  m_Height: 1.1878326
+  m_Direction: 1
+  m_Center: {x: 0.00012207031, y: -2.5579538e-14, z: 0.9000004}
 --- !u!1 &967136899
 GameObject:
   m_ObjectHideFlags: 0
@@ -47399,6 +47466,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.6000001, y: 0.29610962, z: 1.5328282}
   m_Center: {x: 0, y: 1.3384819, z: 0.00061035156}
+--- !u!114 &1092811009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1092811007}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd53426786ceb4b47b72a9e7672107d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myLight: {fileID: 661798583}
 --- !u!136 &1092811010
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -64594,6 +64673,35 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1423919081}
   m_Mesh: {fileID: 4300450, guid: 069076b5ff7c0964ca8ff6a3b99e645e, type: 3}
+--- !u!1 &1424587816 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100014, guid: d45e69169f86d794182e0a0d193b12a0, type: 3}
+  m_PrefabInternal: {fileID: 1975753471}
+--- !u!136 &1424587817
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1424587816}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.15
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0, y: 1, z: 0}
+--- !u!114 &1424587818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1424587816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd53426786ceb4b47b72a9e7672107d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myLight: {fileID: 987762499}
 --- !u!1 &1424589328
 GameObject:
   m_ObjectHideFlags: 0
@@ -85992,7 +86100,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 47f8c7768c6004c77aea6505b5878b4a, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.507
+  m_Volume: 0.57
   m_Pitch: 1
   Loop: 1
   Mute: 0

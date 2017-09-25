@@ -1,11 +1,14 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using System.Collections;
 
-public class ToggleLight : MonoBehaviour {
+public class ToggleLight : MonoBehaviour
+{
+	public Light myLight;
 
-	public Light light; 
 
-	void OnTriggerEvent(){
+
+	void OnMouseDown ()
+	{
+		myLight.enabled = !myLight.enabled;
 	}
 }
