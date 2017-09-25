@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 6d82d8b8ac8ce2e419f676d0eb6a3bbe
+timeCreated: 1506313207
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Headphone_UV:HeadSet
+    100004: Headphone_UV:L_Cir_Logo
+    100006: Headphone_UV:L_Ear
+    100008: Headphone_UV:L_Steel
+    100010: Headphone_UV:L_Subear
+    100012: Headphone_UV:MicBase
+    100014: Headphone_UV:MicBody
+    100016: Headphone_UV:R_Cir_Logo
+    100018: Headphone_UV:R_Ear
+    100020: Headphone_UV:R_Steel
+    100022: Headphone_UV:R_Subear
+    100024: Headphone_UV:volume_Ctrl
+    100026: Headphone_UV:WireBase
+    100028: Headphone_UV:WireBody
+    400000: //RootNode
+    400002: Headphone_UV:HeadSet
+    400004: Headphone_UV:L_Cir_Logo
+    400006: Headphone_UV:L_Ear
+    400008: Headphone_UV:L_Steel
+    400010: Headphone_UV:L_Subear
+    400012: Headphone_UV:MicBase
+    400014: Headphone_UV:MicBody
+    400016: Headphone_UV:R_Cir_Logo
+    400018: Headphone_UV:R_Ear
+    400020: Headphone_UV:R_Steel
+    400022: Headphone_UV:R_Subear
+    400024: Headphone_UV:volume_Ctrl
+    400026: Headphone_UV:WireBase
+    400028: Headphone_UV:WireBody
+    2300000: Headphone_UV:HeadSet
+    2300002: Headphone_UV:L_Cir_Logo
+    2300004: Headphone_UV:L_Ear
+    2300006: Headphone_UV:L_Steel
+    2300008: Headphone_UV:L_Subear
+    2300010: Headphone_UV:MicBase
+    2300012: Headphone_UV:MicBody
+    2300014: Headphone_UV:R_Cir_Logo
+    2300016: Headphone_UV:R_Ear
+    2300018: Headphone_UV:R_Steel
+    2300020: Headphone_UV:R_Subear
+    2300022: Headphone_UV:volume_Ctrl
+    2300024: Headphone_UV:WireBase
+    2300026: Headphone_UV:WireBody
+    3300000: Headphone_UV:HeadSet
+    3300002: Headphone_UV:L_Cir_Logo
+    3300004: Headphone_UV:L_Ear
+    3300006: Headphone_UV:L_Steel
+    3300008: Headphone_UV:L_Subear
+    3300010: Headphone_UV:MicBase
+    3300012: Headphone_UV:MicBody
+    3300014: Headphone_UV:R_Cir_Logo
+    3300016: Headphone_UV:R_Ear
+    3300018: Headphone_UV:R_Steel
+    3300020: Headphone_UV:R_Subear
+    3300022: Headphone_UV:volume_Ctrl
+    3300024: Headphone_UV:WireBase
+    3300026: Headphone_UV:WireBody
+    4300000: Headphone_UV:volume_Ctrl
+    4300002: Headphone_UV:L_Ear
+    4300004: Headphone_UV:L_Subear
+    4300006: Headphone_UV:MicBase
+    4300008: Headphone_UV:MicBody
+    4300010: Headphone_UV:R_Subear
+    4300012: Headphone_UV:R_Ear
+    4300014: Headphone_UV:WireBody
+    4300016: Headphone_UV:WireBase
+    4300018: Headphone_UV:L_Steel
+    4300020: Headphone_UV:R_Steel
+    4300022: Headphone_UV:HeadSet
+    4300024: Headphone_UV:L_Cir_Logo
+    4300026: Headphone_UV:R_Cir_Logo
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
