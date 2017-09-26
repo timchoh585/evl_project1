@@ -16,15 +16,11 @@ public class OnClickSound : MonoBehaviour
 		audio.Play();
 		
 	}
-
-	private void OnHandHoverBegin( Hand hand )
+			
+	private void OnTriggerEnter( Collider other )
 	{
-
-			if ( hand.GetStandardInteractionButton() )
-			{
 				AudioSource audio = GetComponent<AudioSource> ();
 				audio.Play();
-			}
 				
 	}
 }

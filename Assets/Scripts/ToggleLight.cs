@@ -15,14 +15,9 @@ public class ToggleLight : MonoBehaviour
 	}
 
 
-	private void OnHandHoverBegin( Hand hand )
+	private void OnTriggerEnter( Collider other )
 	{
-
-		if ( hand.GetStandardInteractionButton() )
-		{
 				myLight.enabled = !myLight.enabled;
-		}
-
 	}
 }
 }
