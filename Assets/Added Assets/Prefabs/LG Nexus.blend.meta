@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 6d2d52155779518409f646beeb2682bf
+timeCreated: 1506289759
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Button1
+    100004: Button2
+    100006: camera
+    100008: Flash
+    100010: Floor
+    100012: LG
+    100014: //RootNode
+    100016: Lg_Logo
+    100018: Lg_Logo_MeshPart0
+    100020: Lg_Logo_MeshPart1
+    100022: nexus
+    100024: Screen
+    100026: secondary_camera
+    100028: sensor
+    400000: Body
+    400002: Button1
+    400004: Button2
+    400006: camera
+    400008: Flash
+    400010: Floor
+    400012: LG
+    400014: //RootNode
+    400016: Lg_Logo
+    400018: Lg_Logo_MeshPart0
+    400020: Lg_Logo_MeshPart1
+    400022: nexus
+    400024: Screen
+    400026: secondary_camera
+    400028: sensor
+    2300000: Body
+    2300002: Button1
+    2300004: Button2
+    2300006: camera
+    2300008: Flash
+    2300010: Floor
+    2300012: LG
+    2300014: Lg_Logo_MeshPart0
+    2300016: Lg_Logo_MeshPart1
+    2300018: nexus
+    2300020: Screen
+    2300022: secondary_camera
+    2300024: sensor
+    3300000: Body
+    3300002: Button1
+    3300004: Button2
+    3300006: camera
+    3300008: Flash
+    3300010: Floor
+    3300012: LG
+    3300014: Lg_Logo_MeshPart0
+    3300016: Lg_Logo_MeshPart1
+    3300018: nexus
+    3300020: Screen
+    3300022: secondary_camera
+    3300024: sensor
+    4300000: Floor
+    4300002: Lg_Logo_MeshPart0
+    4300004: Lg_Logo_MeshPart1
+    4300006: LG
+    4300008: nexus
+    4300010: Flash
+    4300012: camera
+    4300014: Button2
+    4300016: Button1
+    4300018: Screen
+    4300020: sensor
+    4300022: secondary_camera
+    4300024: Body
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

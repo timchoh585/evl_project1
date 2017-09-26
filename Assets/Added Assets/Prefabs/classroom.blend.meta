@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 34f69266e5d863c43bf27533164cc711
+timeCreated: 1506183306
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube_001
+    100004: Cube_005
+    100006: Cube_006
+    100008: ERF-B-SupportColumns
+    100010: ERF-CorridorDoor
+    100012: ERF-CorridorDoor_001
+    100014: ERF-DoorHandle_003
+    100016: ERF-DoorHandle_004
+    100018: ERF-DoorHandle_009
+    100020: ERF-DoorHandle_012
+    100022: ERF-DoorHandle_015
+    100024: ERF-DoorHandleBase_003
+    100026: ERF-DoorHandleBase_004
+    100028: ERF-DoorHandleBase_009
+    100030: ERF-DoorHandleBase_012
+    100032: ERF-DoorHandleBase_015
+    100034: ERF-EVL-CyberCommonsFloor
+    100036: ERF-EVL-Walls
+    100038: ERF-SingleDoorFrame
+    100040: ERF-SingleDoorFrame_005
+    100042: ERF-SingleDoorFrame_006
+    100044: ERF-SingleDoorFrame_008
+    100046: ERF-SingleDoorFrame_009
+    400000: //RootNode
+    400002: Cube_001
+    400004: Cube_005
+    400006: Cube_006
+    400008: ERF-B-SupportColumns
+    400010: ERF-CorridorDoor
+    400012: ERF-CorridorDoor_001
+    400014: ERF-DoorHandle_003
+    400016: ERF-DoorHandle_004
+    400018: ERF-DoorHandle_009
+    400020: ERF-DoorHandle_012
+    400022: ERF-DoorHandle_015
+    400024: ERF-DoorHandleBase_003
+    400026: ERF-DoorHandleBase_004
+    400028: ERF-DoorHandleBase_009
+    400030: ERF-DoorHandleBase_012
+    400032: ERF-DoorHandleBase_015
+    400034: ERF-EVL-CyberCommonsFloor
+    400036: ERF-EVL-Walls
+    400038: ERF-SingleDoorFrame
+    400040: ERF-SingleDoorFrame_005
+    400042: ERF-SingleDoorFrame_006
+    400044: ERF-SingleDoorFrame_008
+    400046: ERF-SingleDoorFrame_009
+    2300000: Cube_001
+    2300002: Cube_005
+    2300004: Cube_006
+    2300006: ERF-B-SupportColumns
+    2300008: ERF-CorridorDoor
+    2300010: ERF-CorridorDoor_001
+    2300012: ERF-DoorHandle_003
+    2300014: ERF-DoorHandle_004
+    2300016: ERF-DoorHandle_009
+    2300018: ERF-DoorHandle_012
+    2300020: ERF-DoorHandle_015
+    2300022: ERF-DoorHandleBase_003
+    2300024: ERF-DoorHandleBase_004
+    2300026: ERF-DoorHandleBase_009
+    2300028: ERF-DoorHandleBase_012
+    2300030: ERF-DoorHandleBase_015
+    2300032: ERF-EVL-CyberCommonsFloor
+    2300034: ERF-EVL-Walls
+    2300036: ERF-SingleDoorFrame
+    2300038: ERF-SingleDoorFrame_005
+    2300040: ERF-SingleDoorFrame_006
+    2300042: ERF-SingleDoorFrame_008
+    2300044: ERF-SingleDoorFrame_009
+    3300000: Cube_001
+    3300002: Cube_005
+    3300004: Cube_006
+    3300006: ERF-B-SupportColumns
+    3300008: ERF-CorridorDoor
+    3300010: ERF-CorridorDoor_001
+    3300012: ERF-DoorHandle_003
+    3300014: ERF-DoorHandle_004
+    3300016: ERF-DoorHandle_009
+    3300018: ERF-DoorHandle_012
+    3300020: ERF-DoorHandle_015
+    3300022: ERF-DoorHandleBase_003
+    3300024: ERF-DoorHandleBase_004
+    3300026: ERF-DoorHandleBase_009
+    3300028: ERF-DoorHandleBase_012
+    3300030: ERF-DoorHandleBase_015
+    3300032: ERF-EVL-CyberCommonsFloor
+    3300034: ERF-EVL-Walls
+    3300036: ERF-SingleDoorFrame
+    3300038: ERF-SingleDoorFrame_005
+    3300040: ERF-SingleDoorFrame_006
+    3300042: ERF-SingleDoorFrame_008
+    3300044: ERF-SingleDoorFrame_009
+    4300000: ERF-EVL-Walls
+    4300002: ERF-B-SupportColumns
+    4300004: ERF-SingleDoorFrame_005
+    4300006: Cube_005
+    4300008: ERF-DoorHandleBase_009
+    4300010: ERF-DoorHandle_009
+    4300012: ERF-SingleDoorFrame_006
+    4300014: Cube_006
+    4300016: ERF-DoorHandleBase_012
+    4300018: ERF-DoorHandle_012
+    4300020: ERF-SingleDoorFrame
+    4300022: ERF-CorridorDoor
+    4300024: ERF-DoorHandleBase_003
+    4300026: ERF-DoorHandle_003
+    4300028: ERF-SingleDoorFrame_008
+    4300030: ERF-CorridorDoor_001
+    4300032: ERF-DoorHandleBase_004
+    4300034: ERF-DoorHandle_004
+    4300036: ERF-SingleDoorFrame_009
+    4300038: Cube_001
+    4300040: ERF-DoorHandleBase_015
+    4300042: ERF-DoorHandle_015
+    4300044: ERF-EVL-CyberCommonsFloor
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
