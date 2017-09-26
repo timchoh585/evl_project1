@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+namespace Valve.VR.InteractionSystem{
+
 public class ToggleLight : MonoBehaviour
 {
 	public Light myLight;
@@ -11,4 +13,16 @@ public class ToggleLight : MonoBehaviour
 	{
 		myLight.enabled = !myLight.enabled;
 	}
+
+
+	private void OnHandHoverBegin( Hand hand )
+	{
+
+		if ( hand.GetStandardInteractionButton() )
+		{
+				myLight.enabled = !myLight.enabled;
+		}
+
+	}
+}
 }
