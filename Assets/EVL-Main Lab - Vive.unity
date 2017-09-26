@@ -18469,6 +18469,30 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &462885373
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 462885368}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 4.130514, y: 2.3209136, z: 0.5788551}
+  m_Center: {x: -0.065099895, y: 3.1935797, z: 0.04580439}
+--- !u!65 &462885374
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 462885368}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.3058403, y: 8.608705, z: 0.56401116}
+  m_Center: {x: -0.06703472, y: 0.051837083, z: 0.0664999}
 --- !u!1 &463739987
 GameObject:
   m_ObjectHideFlags: 0
@@ -21019,7 +21043,6 @@ GameObject:
   - component: {fileID: 516542942}
   - component: {fileID: 516542945}
   - component: {fileID: 516542944}
-  - component: {fileID: 516542943}
   m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
@@ -21040,18 +21063,6 @@ Transform:
   m_Father: {fileID: 1964158963}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &516542943
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 516542941}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1.9999999, y: 3.0269988, z: 2.1030145}
-  m_Center: {x: 0, y: 0.5134982, z: -0.0132730035}
 --- !u!23 &516542944
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -25784,34 +25795,6 @@ Transform:
   m_Father: {fileID: 1896423807}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &625947033 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 100004, guid: 29cd974cb1256bd4f8ee4c3f009a3360, type: 3}
-  m_PrefabInternal: {fileID: 1198024360}
---- !u!65 &625947035
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 625947033}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1.3058403, y: 8.608705, z: 0.56401116}
-  m_Center: {x: -0.06703472, y: 0.051837083, z: 0.0664999}
---- !u!65 &625947038
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 625947033}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 4.130514, y: 2.3209136, z: 0.5788551}
-  m_Center: {x: -0.065099895, y: 3.1935797, z: 0.04580439}
 --- !u!1 &626182233
 GameObject:
   m_ObjectHideFlags: 0
@@ -88140,6 +88123,7 @@ GameObject:
   - component: {fileID: 1964158960}
   - component: {fileID: 1964158959}
   - component: {fileID: 1964158958}
+  - component: {fileID: 1964158964}
   m_Layer: 0
   m_Name: LG Nexus
   m_TagString: Untagged
@@ -88276,6 +88260,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 90, y: 90, z: 0}
+--- !u!65 &1964158964
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1964158957}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999999, y: 3.0269988, z: 2.1030145}
+  m_Center: {x: 0, y: 0.5134982, z: -0.0132730035}
 --- !u!1 &1966715246
 GameObject:
   m_ObjectHideFlags: 0
